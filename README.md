@@ -52,8 +52,8 @@ To get started with any of the projects in this repository, follow these steps:
 ## Roadmap
 Here's a rough outline of what I plan to cover:
 
-- [x] Learn Basic Routing and Templates
-- [x] Implement User Authentication
+- [ ] Learn Basic Routing and Templates
+- [ ] Implement User Authentication
 - [ ] Integrate with Databases (SQLite, PostgreSQL)
 - [ ] Build a REST API
 - [ ] Deploy Applications to Production
